@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "magento-hackathon/magento-composer-installer": "*",
-        "danslo/libraryrewrite": "*",
+        "magento-hackathon/magento-composer-installer": "~2.0.0",
+        "danslo/libraryrewrite": "~1.0.0",
         "firegento/psr0autoloader": "*",
         "aws/aws-sdk-php": "~2.7.1"
     }
